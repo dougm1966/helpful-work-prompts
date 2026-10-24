@@ -12,10 +12,9 @@ The agent needs access to both the original conversation and this repository. A 
 
 ## Prompt index
 
-No prompts saved yet. Add a row here whenever a prompt is saved.
-
 | Prompt | Use it for | Results observed | Tags |
 | --- | --- | --- | --- |
+| [Entity SEO Skill — Any Website, 2027 Standards](prompts/entity-seo-skill.md) | Building or auditing the entity SEO of any website or business | Designed and standards-verified in conversation on 2026-10-24; not yet run against a live site | entity-seo, schema, ai-search |
 
 ## How entries work
 
